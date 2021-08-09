@@ -14,7 +14,7 @@ output:
   postcards::trestles
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
+. 
 
 ---
 
