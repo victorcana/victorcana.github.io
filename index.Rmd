@@ -13,11 +13,10 @@ links:
 output:
   postcards::trestles
 ---
- 
-. 
+
+I am Interested in continuing the genomic exploration of monogeneans through the use of bioinformatics tools.
 
 ---
-
 
 #### Bio 
 
@@ -27,6 +26,8 @@ Victor Caña Bozada, PhD student in Science at the Centro de Investigación en A
 
 #### Positions
 
-Research Center for Food and Development A.C.Department of Aquaculture and Environmental Management (Mazatlan Unit)]
+PhD student in Science at the Centro de Investigación en Alimentación y Desarrollo (CIAD), Mazatlán, México.
+
+
 
 
