@@ -1,5 +1,5 @@
 ---
-title: "Victor Caña Bozada"
+title: "Victor Hugo Caña Bozada"
 image: "foto.jpg"
 links:
   - label: LinkedIn
@@ -13,6 +13,7 @@ links:
 output:
   postcards::trestles
 ---
+### About
 
 I am Interested in continuing the genomic exploration of monogeneans through the use of bioinformatics tools.
 
