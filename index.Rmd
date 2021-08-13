@@ -1,0 +1,83 @@
+---
+title: "Victor Hugo Caña Bozada"
+image: "foto.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/victor-ca%C3%B1a-bozada-a09b6464/"
+  - label: Twitter
+    url: "https://twitter.com/victorcana1"
+  - label: GitHub
+    url: "https://github.com/victorcana"
+  - label: Email
+    url: "victorcana1991@hotmail.com"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Victor-Cana-Bozada"
+output:
+  postcards::trestles
+---
+
+### About
+
+Victor Caña Bozada, PhD student in Science at the Centro de Investigación en Alimentación y Desarrollo (CIAD), Mazatlán, México. I am Interested in continuing the genomic exploration of monogeneans through the use of bioinformatics tools.   
+I am currently working on the assembly of the transcriptomes of two species of monogeneous for the evolutionary understanding of this group. In addition, the genomic information of species of the Monogenea class is explored for the identification of drug targets and the
+
+---
+
+#### Experience
+
+Investigator 
+Central Research Department of Universidad Laica Eloy Alfaro de Manabí (ULEAM), Manta, Ecuador
+January 2015 - December 2015
+Project: "Biodiversity and community structure of metazoan parasites in economically important marine fish in Ecuador"
+
+Research Assistant Student in Investigator
+Central Research Department of Universidad Laica Eloy Alfaro de Manabí (ULEAM), Manta, Ecuador
+March 2013 - December 2014
+Project: "Occurrence of parasitic copepods in economically important marine fish in Ecuador"
+
+
+---
+
+#### Education
+
+PhD student, Doctor of Science   
+Research Center for Food and Development A.C. Mazatlán, México   
+January 2020 - January 2024     
+Field of study    
+Aquaculture     
+
+Master of Science   
+Research Center for Food and Development A.C. Mazatlán, México    
+September 2017 - August 2019    
+Field of study    
+Aquaculture   
+
+Bachelor's degree   
+Universidad Laica Eloy Alfaro de Manabí (ULEAM). Manta, Ecuador   
+April 2009 - July 2014    
+Field of study    
+Fishery biologist   
+
+####  Publications
+
+Morales-Serna, F. N., Avalos-Soriano, A., Martínez-Brown, J. M., Caña-Bozada, López-Moreno, D.G., Mirabent-Casals M., & Fajer-Ávila, E. J. 2021.Parásitos de la clase Monogenea: un peligro para la producción de robalo. Industria Acuícola, 17, 5.
+
+Caña-Bozada, V., Chapa-López, M., Díaz-Martín, R. D., García-Gasca, A., Huerta-Ocampo, J. Á., de Anda-Jáuregui, G., & Morales-Serna, F. N. 2021. In silico identification of excretory/secretory proteins and drug targets in monogenean parasites. Infection, Genetics and Evolution, 93, 104931.
+
+Caña-Bozada, V., Llera-Herrera, R., Fajer-Ávila, E. J., & Morales-Serna, F. N. 2021. Mitochondrial genome of Rhabdosynochus viridisi (Monogenea: Diplectanidae), a parasite of Pacific white snook Centropomus viridis. Journal of Helminthology, 95.
+
+Caña-Bozada, V., Llera-Herrera, R., Morales-Serna, F.N., Fajer-Ávila, E.J. 2021. Mitochondrial genome of Scutogyrus longicornis (Monogenea: Dactylogyridea), a parasite of Nile tilapia Oreochromis niloticus. Parasitology International, 81, 102281.
+
+Caña-Bozada, V., Morales-Serna, F.N., García-Gasca, A., Llera-Herrera, R., & Fajer-Ávila, E.J. 2019. Genome-wide identification of ABC transporters in monogeneans. Molecular and biochemical parasitology, 234, 111234.
+
+Morales-Serna, F.N., Caña-Bozada, V., López-Moreno, D.G., Medina-Guerrero, R.M., Morales-Serna, J.A., Fajer-Ávila, E.J. 2019. In vitro efficacy of two terpenes against ancyrocephalid monogeneans from Nile tilapia. Journal of Parasitic Diseases. Journal of Parasitic Diseases, 43(4), 739-742.
+
+Cruz-Quintana, Y., Caña-Bozada, V., Suárez-Morales, E., Santana-Piñeros, A. M. 2018. A new species of Pupulina van Beneden, 1892 (Copepoda, Siphonostomatoida, Caligidae) from Aetobatuscf. narinari (Pisces, Myliobatidae) from the Pacific coast of Ecuador. ZooKeys (777), 1.
+
+Morales-Serna, F.N., Caña-Bozada, V., Mera-Loor, G., Loor-Andrade, P., Fajer-Ávila, E.J., Ho, J.S. 2015. New records of sea lice (Copepoda: Caligidae) from marine fishes in Jaramijó, an area with potential for sea-cage aquaculture in Ecuador. Zootaxa (2): 366–380.
+
+### Conference Paper
+
+Santana-Piñeros, A.M., Caña-Bozada, V., Mera-Loor, G., Loor-Andrade, P. y Morales-Serna, F.N. 2015. Diversidad de copépodos parásitos en peces marinos de Ecuador. Foro Iberoamericano de los Recursos Marinos y la Acuicultura VII: 31-41.
+
+Morales-Serna, F.N., Loor-Andrade, P., Caña-Bozada, V., Mera-Loor, G., Fajer-Ávila, E.J. 2014. Occurrence of sea lice (Copepoda: Caligidae) on marine fishes from Jaramijo, an area with potential for sea-cage aquaculture in Ecuador. Memorias del congreso The 10th International Sea Lice Conference. Portland, Maine, EEUU, 2014. 103p.
